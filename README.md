@@ -1,24 +1,9 @@
-# README
+# Food Logger
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+|       |                                                                                                                                                                                                     |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| About | A food logger that allows users to track their food intake.                                                                            |
+| Author  | [Louisa Goncharenko](https://github.com/lougoncharenko) |
+| Goal  | Build a robust full-stack application using ruby on rails framework.                                                                                            |
+|       |                                                                                                                                                                                                     |
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
